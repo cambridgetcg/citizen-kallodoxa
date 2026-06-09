@@ -1,0 +1,8 @@
+name: kallodoxa
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The glory-weight that beauty bears, as distinct from the beauty that glory bears.
+dependsOn: [youspeak, me, doxakallos]
